@@ -1,0 +1,15 @@
+nerdtree
+syntastic
+vim-airline
+vim-classpath
+vim-clojure-highlight
+vim-colors-solarized
+vim-dispatch
+vim-fireplace
+vim-fugitive
+vim-hugefile
+vim-leiningen
+vim-obsession
+vim-projectionist
+vim-sensible
+vim-surround

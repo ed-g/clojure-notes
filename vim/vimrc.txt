@@ -1,0 +1,27 @@
+execute pathogen#infect()
+execute pathogen#helptags()
+
+let g:solarized_termcolors=256
+colorscheme solarized
+set background=dark
+" colorscheme elflord
+
+set ai
+set expandtab
+set ts=4
+set softtabstop=4
+set smarttab
+
+set guioptions=-t
+
+set backupdir=~/.vim/backup//
+set directory=~/.vim/swap//
+set undodir=~/.vim/undo//
+
+" allow edited buffers which aren't visible in a window.
+"  http://stackoverflow.com/questions/102384/using-vims-tabs-like-buffers
+set hidden
+
+syntax on
+filetype plugin indent on
+
