@@ -1,0 +1,4 @@
+
+Clojure Programming (the O'Reilly book)
+Great overview of all the nooks and crannies of the language, with suggested
+usage and good style. Lots of practical examples, and the editing is good.
