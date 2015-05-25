@@ -1,6 +1,0 @@
-see http://www.clojure-toolbox.com/ for massive list.
-
-Good libraries I've used:
-
-YESQL - https://github.com/krisajenkins/yesql
-Korma - http://sqlkorma.com/
