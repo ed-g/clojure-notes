@@ -1,0 +1,29 @@
+see http://www.clojure-toolbox.com/ for massive list.
+
+Good libraries I've used:
+
+Database:
+
+YESQL - https://github.com/krisajenkins/yesql
+Korma - http://sqlkorma.com/
+see http://www.clojure-toolbox.com/ for massive list.
+
+REST services: 
+
+https://clojure-liberator.github.io/liberator/
+
+Web Server:
+
+https://github.com/weavejester/compojure
+https://github.com/ring-clojure/ring
+
+JSON:
+
+https://github.com/dakrone/cheshire
+
+Functional HTML templates:
+
+https://github.com/cgrand/enlive
+
+
+
